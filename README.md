@@ -76,3 +76,8 @@
 6. path_provider: ^2.1.2 : hive Package 사용하기 위한 서브 Package
 7. path: ^1.9.0 : hive Package 사용하기 위한 서브 Package
 8. intl: ^0.19.0 : 각 게임의 종료시점 기록을 구하기 위한 DateTime용 Package
+
+## 앞으로 추가할 기능
+1. View 적인 완성도 높이기
+2. 저장된 기록의 삭제 기능 추가하기
+3. 별도의 Firebase 서버 구성하여, Api 통신으로 Upgrade 하기
